@@ -101,9 +101,9 @@ a.admin {
 .link.segment {
   cursor: pointer;
 }
-/*.no-api {
+.no-api {
   display:none;
-}*/
+}
 #banner {
   background: url(/images/background.jpg);
   margin-bottom: 36px;

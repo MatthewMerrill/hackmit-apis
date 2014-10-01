@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="images/hack-logo-favicon.png">
 
-  <title>HACKMIT API Directory</title>
+  <title>HACKMIT API & Company Directory</title>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <!-- Semantic-UI -->
@@ -17,13 +17,28 @@
   <link rel="stylesheet" href="stylesheets/site.css" type="text/css">
   <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('.ui.checkbox').checkbox({
+        'onEnable':function() {
+              $('.no-api').slideToggle();
+              $('#allCompanyToggleLabel').html("Click to show only companies providing APIs");
+              console.log('enabled');
+            },
+        'onDisable':function() {
+          $('.no-api').slideToggle();
+          $('#allCompanyToggleLabel').html("Click to show all companies");
+          console.log('disabled!');}
+      });
+  });
+  </script>
 </head>
 
 <body>
   <div id="apiDirectory">
     <div id="banner">
       <div class="content">
-        API Directory
+        Company Directory
       </div>
     </div>
 
@@ -32,6 +47,9 @@
 
       <div class="eight wide column">
         <div>
+          <h2><div class="ui toggle checkbox"><input name="showAllCompanies" type="checkbox"><label id="allCompanyToggleLabel"> Click to show all companies </label></div>
+          </h2><br>
+
           <div>
           <div class='ui fluid top attached link segment'>
             <h1>Uber</h1>
