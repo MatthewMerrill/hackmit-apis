@@ -1,0 +1,212 @@
+html,
+body,
+#container,
+#login {
+  height: 100%;
+  width: 100%;
+  font-size: 1.05em;
+  overflow-x: hidden;
+}
+
+fieldset {
+  border: none;
+}
+
+body {
+  margin: 0;
+  font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-weight: 300;
+}
+
+#login {
+  background: url(/images/background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+
+.flex-container {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-item {
+  text-align: center;
+}
+
+#login .title,
+#login .subtitle {
+  font-family: 'Montserrat', 'Helvetica', sans-serif;
+  font-weight: 700;
+  font-size: 4em;
+  margin-bottom: 24px;
+  color: white;
+  letter-spacing: 8px;
+}
+
+#login .subtitle {
+  font-size: 1.3em;
+}
+
+.ui.page.dimmer .close.icon {
+  position: fixed;
+  top: 48px; right: 48px;
+}
+
+input.clean {
+  background: none;
+  font-size: 3em;
+  border: none;
+  border-bottom: 2px solid white;
+  color: white;
+}
+
+input.clean.dark {
+  border-bottom: 1px solid white;
+  color: white;
+}
+
+input:focus {
+  outline: none;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+  color: #ebebeb;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color:    #ebebeb;
+  opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color:    #ebebeb;
+  opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+  color:    #ebebeb;
+}
+
+a.admin {
+  position: fixed;
+  top: 16px; right: 16px;
+  cursor: pointer;
+}
+
+.link.segment {
+  cursor: pointer;
+}
+/*.no-api {
+  display:none;
+}*/
+#banner {
+  background: url(/images/background.jpg);
+  margin-bottom: 36px;
+}
+
+#banner .content{
+  text-transform: uppercase;
+  font-size: 3em;
+    color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+
+.ui.form h1 {
+  font-size: 3em;
+}
+
+.record .action.buttons {
+  float: right;
+}
+
+.sponsor.form > .field {
+  margin-bottom: 75px;
+}
+
+.bronze.label {
+  background: #cd7f32;
+  color: white;
+}
+
+.silver.label {
+  background: #CCCCCC;
+  color: black;
+}
+
+.gold.label {
+  background: #FFD700;
+  color: white;
+}
+
+.platinum.label {
+  background: #EDEDEF;
+  color: black;
+}
+
+.custom.label {
+  background: #4996ff;
+  color: white;
+}
+
+.bronze.segment,
+.bronze.button {
+  border-top: .2em solid #cd7f32;
+}
+
+.silver.segment,
+.silver.button {
+  border-top: .2em solid #CCCCCC;
+}
+
+.gold.segment,
+.gold.button {
+  border-top: .2em solid #FFD700;
+}
+
+.platinum.segment,
+.platinum.button {
+  border-top: .2em solid #EDEDEF;
+}
+
+.custom.segment,
+.custom.button {
+  border-top: .2em solid #4996ff;
+}
+
+.animate-record {
+  list-style:none;
+}
+
+.animate-record.ng-move,
+.animate-record.ng-enter,
+.animate-record.ng-leave {
+  -webkit-transition:all linear 0.5s;
+  transition:all linear 0.5s;
+}
+
+.animate-record.ng-leave.ng-leave-active,
+.animate-record.ng-move,
+.animate-record.ng-enter {
+  opacity:0;
+  max-height:0;
+}
+
+.animate-record.ng-leave,
+.animate-record.ng-move.ng-move-active,
+.animate-record.ng-enter.ng-enter-active {
+  opacity:1;
+  max-height:40px;
+}
+
+select.semantic {
+  background: none;
+  border-color: rgba(0,0,0,.15);
+  font-weight: bold;
+  height: 2em;
+}
