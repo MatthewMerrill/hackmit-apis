@@ -1,0 +1,16 @@
+{
+    "apis" : [
+        {
+            "description" : "Uber uses python and stuff",
+            "queries"     : "uber, python"
+        },
+        {
+            "description" : "Google uses php because google. ",
+            "queries"     : "google, php"
+        },
+        {
+            "description" : "Facebook also uses python ",
+            "queries"     : "facebook, python"
+        }
+    ]
+}

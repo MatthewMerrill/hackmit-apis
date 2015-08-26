@@ -1,0 +1,20 @@
+{
+  "name": "API Directory",
+  "version": "0.0.0",
+  "homepage": "https://github.com/techx/old-hackmit-apis",
+  "authors": [
+    "Fernando Trujano <trujano@mit.edu>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
