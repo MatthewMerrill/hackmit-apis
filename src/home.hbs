@@ -1,8 +1,25 @@
-<link href="style.css" rel="stylesheet">
-<script src="main.min.js"></script>
+<html>
+<head>
+    <title>HackMIT API Directory</title>
+    <link href="style.css" rel="stylesheet">
 
-I am looking for <input id="search" type="text" placeholder="everything"> </input>
+</head>
+<body>
+    <header>
+        API Directory
+    </header>
 
-{{#each apis}}
-  {{>api}}
-{{/each}}
+    <section id="search">
+        I am looking for <input id="search-bar" type="text" placeholder="everything"> </input>
+    </section>
+
+    <section id="apis">
+        {{#each apis}}
+          {{>api}}
+        {{/each}}
+    </section>
+
+    <script src="main.min.js"></script>
+</body>
+</html>
+

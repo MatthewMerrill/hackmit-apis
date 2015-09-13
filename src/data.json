@@ -1,16 +1,11 @@
 {
     "apis" : [
         {
-            "name": "test",
-            "website": "test.com",
-            "description": "asdfasdf''asdfasfasdf''asdf''asd''fasd''f''''",
-            "logo": "https://hackmit-sponsor.s3.amazonaws.com/KAYAK-logo.png"
-        },
-        {
             "name": "KAYAK",
-            "website": "KAYAK.com",
+            "website": "http://KAYAK.com",
             "description": "KAYAK is the best place to plan, book, and manage your travels. We compare hundreds of travel sites at once. If you want to spend hours searching every airline, hotel and other travel site yourself, that's one option. If you'd prefer an easier way to find a good deal, we can help. Our free mobile app is available on iPhone, iPad, Android, and Windows Phone, and is the #1 Mobile Travel App. We have local KAYAK sites in thirty countries.",
-            "logo": "https://hackmit-sponsor.s3.amazonaws.com/KAYAK-logo.png"
+            "logo": "https://hackmit-sponsor.s3.amazonaws.com/KAYAK-logo.png",
+            "queries" : "kayak"
         },
         {
             "name": "Datto Inc.",
