@@ -1,5 +1,15 @@
-<div class="api" data-queries="{{queries}}" id={{name}}>
-    <h1> <a href="{{website}}"> {{name}} </a>  </h1>
-    {{{description}}}
-    <img class="logo" src="{{logo}}" alt="{{name}}" />
-</div>
+{{!-- {{#if logo}} --}}
+
+    <div class="card api" data-queries="{{queries}}" id={{name}}>
+      <div class="image">
+        <img src="../logos/{{logo}}">
+      </div>
+      <div class="content">
+        <p>{{{description}}}</p>
+      </div>
+      <div class="action">
+        <a href='{{website}}'>{{name}}</a>
+      </div>
+    </div>
+
+{{!-- {{/if}} --}}

@@ -7,7 +7,6 @@ $(document).ready(function(){
 });
 
 function handleQuery(query){
-    console.log("handle")
     if (query.length >= MIN_LENGTH){
         $.each($(".api"), function(i, api){
             var data = api.dataset.queries.split(",");
