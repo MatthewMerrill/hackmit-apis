@@ -1,5 +1,7 @@
 var MIN_LENGTH = 3;
 $(document).ready(function(){
+    equalheight('.api', 'p');
+
     $("#search-bar").on('keyup', function(){
         var query = $("#search-bar").val().toLowerCase();
         handleQuery(query);
@@ -26,3 +28,42 @@ function handleQuery(query){
         $(".api").fadeIn();
     }
 }
+
+//* Pads extend element so all items in container row have equal height.
+equalheight = function(container, extend){
+    var currentTallest   = 0,
+         currentRowStart = 0,
+         rowDivs         = new Array(),
+         topPosition     = 0,
+         $el;
+
+    var updateHeight = function(currentDiv) {
+        var content          = currentDiv.find(extend),
+            oldDivHeight     = currentDiv.height(),
+            oldContentHeight = content.height();
+
+        content.height(oldContentHeight + (currentTallest-oldDivHeight));
+    };
+     $(container).each(function() {
+
+       $el = $(this);
+       $($el).height('auto');
+       topPostion = $el.position().top;
+
+       if (currentRowStart != topPostion) {
+          for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+            updateHeight(rowDivs[currentDiv]);
+          }
+          rowDivs.length  = 0; // empty the array
+          currentRowStart = topPostion;
+          currentTallest  = $el.height();
+          rowDivs.push($el);
+       } else {
+          rowDivs.push($el);
+          currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+      }
+       for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+          updateHeight(rowDivs[currentDiv]);
+       }
+     });
+};
