@@ -9,7 +9,7 @@
     {
         "name": "Synaptics",
         "website": "www.synaptics.com",
-        "description": "Synaptics is the pioneer and leader of the human interface revolution, bringing innovative and intuitive user experiences to intelligent devices. Synaptics' broad portfolio of touch, display, and biometrics products is built on the company's rich R&D and supply chain capabilities. With solutions designed for mobile, PC and automotive industries, Synaptics combines ease of use, functionality and aesthetics to enable products that help make our digital lives more productive, secure and enjoyable.",
+        "description": "Synaptics is the pioneer and leader of the human interface revolution, bringing innovative and intuitive user experiences to intelligent devices. Synaptics' broad portfolio of touch, display, and biometrics products is built on the company's rich R&D and supply chain capabilities. With solutions designed for mobile, PC and automotive industries, Synaptics combines ease of use, functionality and aesthetics to enable products that help make our digital lives more productive, secure and enjoyable.\n",
         "logo": "Synaptics-logo.jpg"
     },
     {
@@ -113,12 +113,6 @@
         "website": "www.tripadvisor.com",
         "description": "Plan and book your perfect trip with TripAdvisor, the world's largest travel site. Browse over 225 million candid reviews, opinions, and photos of hotels, restaurants, attractions, and more - all by travelers like you. You'll also find low airfares, free travel guides, worldwide vacation rental listings, popular forums with advice about virtually every destination, and more. No wonder so many travelers make TripAdvisor their first stop before every trip.",
         "logo": "TripAdvisor-logo.png"
-    },
-    {
-        "name": "Red Hat",
-        "website": "redhat.com/jobs",
-        "description": "Red Hat is the world's leading provider of open source enterprise solutions, including cloud, virtualization, storage, Linux®, and middleware. In addition to enterprise software, we offer award-winning support, training, and consulting services.\nBut we're more than a software company. We are the bridge between the communities that create open source software and the customers who use it. In fact, more than 90% of Fortune 500 companies rely on Red Hat.",
-        "logo": "RedHat-logo.jpg"
     },
     {
         "name": "AQR Capital Management",
