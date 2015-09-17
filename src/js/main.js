@@ -1,11 +1,23 @@
 var MIN_LENGTH = 3;
 $(document).ready(function(){
     equalheight('.api', 'p');
-
     $("#search-bar").on('keyup', function(){
         var query = $("#search-bar").val().toLowerCase();
         handleQuery(query);
     });
+
+    $("#search #apiOnly").change(function(){
+        console.log("change")
+        if (this.checked) { //show APIonly!
+            $(".noapi").hide(function(){
+                equalheight('.api', 'p');
+            });
+        } else {  //show all
+            $(".api").show(function(){
+                equalheight('.api', 'p');
+            })
+        }
+    })
 });
 
 function handleQuery(query){
@@ -46,7 +58,10 @@ equalheight = function(container, extend){
     };
      $(container).each(function() {
 
+
        $el = $(this);
+
+       if ($el.css('display') == 'none') return
        $($el).height('auto');
        topPostion = $el.position().top;
 

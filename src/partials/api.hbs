@@ -1,15 +1,18 @@
-{{!-- {{#if logo}} --}}
 
-    <div class="card api" data-queries="{{queries}}" id={{name}}>
-      <div class="image">
-        <img src="../logos/{{logo}}">
-      </div>
-      <div class="content">
-        <p>{{{description}}}</p>
-      </div>
-      <div class="action">
-        <a href='{{website}}'>{{name}}</a>
-      </div>
+<div class="card api {{#unless apiUrl}}noapi{{/unless}}" data-queries="{{queries}}" id={{name}} data-apiUrl="{{apiUrl}} ">
+  {{#if logo}}
+    <div class="image">
+      <a href="{{website}}"> <img src="../logos/{{logo}}"> </a>
     </div>
-
-{{!-- {{/if}} --}}
+  {{/if}}
+  <div class="content">
+    <p>{{{description}}}</p>
+  </div>
+  <div class="action">
+    {{#if apiUrl}}
+      <a href='{{apiUrl}}'>{{name}}</a>
+    {{else}}
+      <a href='{{website}}'>{{name}}</a>
+    {{/if}}
+  </div>
+</div>

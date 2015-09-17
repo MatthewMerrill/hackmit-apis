@@ -1,8 +1,10 @@
 <html>
 <head>
     <title>HackMIT API Directory</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
     <link href="style.css" rel="stylesheet">
     <link rel="icon" type="image/png" href="https://hackmit.org/assets/images/hack-logo-favicon.png">
+
 </head>
 <body>
     <header>
@@ -10,7 +12,15 @@
     </header>
 
     <section id="search">
-        I am looking for <input id="search-bar" type="text" placeholder="everything"> </input>
+        {{!-- I am looking for <input id="search-bar" type="text" placeholder="everything"> </input> --}}
+        <div class="switch">
+          <label>
+            All
+            <input type="checkbox" id="apiOnly">
+            <span class="lever"></span>
+            API only
+          </label>
+        </div>
     </section>
 
 
@@ -23,3 +33,5 @@
     <script src="main.min.js"></script>
 </body>
 </html>
+
+
