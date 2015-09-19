@@ -8,7 +8,7 @@
     },
     {
         "name": "Synaptics",
-        "website": "www.synaptics.com",
+        "website": "http://www.synaptics.com",
         "description": "Synaptics is the pioneer and leader of the human interface revolution, bringing innovative and intuitive user experiences to intelligent devices. Synaptics' broad portfolio of touch, display, and biometrics products is built on the company's rich R&D and supply chain capabilities. With solutions designed for mobile, PC and automotive industries, Synaptics combines ease of use, functionality and aesthetics to enable products that help make our digital lives more productive, secure and enjoyable.\n",
         "logo": "Synaptics-logo.jpg"
     },
@@ -41,7 +41,7 @@
     },
     {
         "name": "Microsoft",
-        "website": "www.microsoft.com/university",
+        "website": "http://www.microsoft.com/university",
         "description": "No matter what your passion is, you'll find it here.  Imagine the opportunities you'll have in a company with more than 100,000 employees in more than 100 countries, working on hundreds of products—spanning games, phones, developer tools, business solutions and operating systems.  We work hard, but we value work/life balance, and each of us defines what that means to us.  So why not explore what we do, where we do it, and what life is really like at Microsoft.  You just might be surprised.",
         "logo": "Microsoft-logo.png",
         "apiUrl": "http://aka.ms/azureeast"
@@ -67,7 +67,7 @@
     },
     {
         "name": "Kensho Technologies Inc.",
-        "website": "www.kensho.com",
+        "website": "http://www.kensho.com",
         "description": "Kensho is pioneering real-time statistical computing systems and scalable analytics architectures—the next-generation of improvements to the global financial system.  Backed by Goldman Sachs, Google Ventures and NBC, Kensho was founded out of MIT and Harvard in 2013.  Kensho's team is a diverse and spirited group of engineers and scientists who are accomplished analytical thinkers and come from veteran positions at Google, Apple, Facebook, and the United States Federal Reserve.",
         "logo": "KenshoTechnologiesInc-logo.png"
     },
@@ -79,7 +79,7 @@
     },
     {
         "name": "FiscalNote",
-        "website": "www.fiscalnote.com",
+        "website": "http://www.fiscalnote.com",
         "description": "FiscalNote, a two-year old, venture-backed analytics company, unlocks legislative and regulatory data using cutting-edge artificial intelligence and beautiful design, engineering the products organizations need to make better decisions and manage government risk. Our vision is to make FiscalNote mission-critical to every office and organization. We aim to foster a transparent political and legal system through the use of cutting-edge engineering and data science on open data.",
         "logo": "FiscalNote-logo.png",
         "apiUrl": "https://docs.fiscalnote.com/"
@@ -105,20 +105,20 @@
     },
     {
         "name": "Bloomberg",
-        "website": "www.bloomberg.com/rd",
+        "website": "http://www.bloomberg.com/rd",
         "description": "We are the top Tech and Software company serving the financial industry. Bloomberg gives influential decision makers a critical edge by connecting them to a dynamic network of information, people and ideas. The company's strength delivering data, news and analytics through innovative technology, quickly and accurately is at the core of the Bloomberg Professional service, which provides real time financial information to more than 315,000 subscribers globally.",
         "logo": "Bloomberg-logo.JPG"
     },
     {
         "name": "Concur",
-        "website": "www.concur.com",
+        "website": "http://www.concur.com",
         "description": "Concur, a part of SAP, imagines the way the world should work, offering cloud-based services that make it simple to manage travel and expenses. \nBy connecting data, applications and people, Concur delivers an effortless experience and total transparency into spending wherever and whenever it happens. \nConcur services adapt to individual employee preferences and scale to meet the needs of companies from small to large, so they can focus on what matters most.",
         "logo": "Concur-logo.png",
         "apiUrl" : "http://concurlabs.github.io/ConcurHackMIT/"
     },
     {
         "name": "TripAdvisor",
-        "website": "www.tripadvisor.com",
+        "website": "http://www.tripadvisor.com",
         "description": "Plan and book your perfect trip with TripAdvisor, the world's largest travel site. Browse over 225 million candid reviews, opinions, and photos of hotels, restaurants, attractions, and more - all by travelers like you. You'll also find low airfares, free travel guides, worldwide vacation rental listings, popular forums with advice about virtually every destination, and more. No wonder so many travelers make TripAdvisor their first stop before every trip.",
         "logo": "TripAdvisor-logo.png"
     },
@@ -130,7 +130,7 @@
     },
     {
         "name": "Levant Power",
-        "website": "www.levantpower.com",
+        "website": "http://www.levantpower.com",
         "description": "Levant Power is a venture-backed Boston area startup spun out of MIT in 2009. We are reinventing the future of the automobile. Our product, GenShock, is a digital ride system that virtually eliminates the perception of road bumps while enabling unprecedented handling. The software and mechatronics technology has broad application across motion control industries including aviation, transportation, industrial manufacturing, and robotics.",
         "logo": "LevantPower-logo.gif"
     },
@@ -162,7 +162,7 @@
     },
     {
         "name": "1517",
-        "website": "www.1517fund.com",
+        "website": "http://www.1517fund.com",
         "description": "1517 supports makers and hackers with grant funding to kickstart projects, pre-seed team funding, and seed funding for startups. The general partners, Danielle Strachman and Michael Gibson were on the founding team of the Thiel Fellowship, designed the program, and mentored every fellow. They are excited to expand upon their work with young founders with their new fund. Contact them at info@1517fund.com for more information.",
         "logo": "1517-logo.png"
     },
@@ -180,7 +180,7 @@
     },
     {
         "name": "Akamai Technologies",
-        "website": "www.akamai.com",
+        "website": "http://www.akamai.com",
         "description": "Akamai is the global leader in Content Delivery Network (CDN) services, making the Internet fast, reliable and secure for its customers. The company's advanced web performance, mobile performance, cloud security and media delivery solutions are revolutionizing how businesses optimize consumer, enterprise and entertainment experiences for any device, anywhere.",
         "logo": "AkamaiTechnologies-logo.png"
     },
@@ -206,7 +206,7 @@
     },
     {
         "name": "State Street",
-        "website": "www.statestreet.com",
+        "website": "http://www.statestreet.com",
         "description": "State Street is a top provider of financial services to institutional investors. We have a of combination innovation and growth opportunities, enhance client service and optimize cost structures. Whether you are starting your career, or are new to the industry, we have a range of employee resources to build a fulfilling career.",
         "logo": "StateStreet-logo.jpg"
     },
@@ -239,19 +239,19 @@
     },
     {
         "name": "Facebook + Parse",
-        "website": "www.facebook.com",
+        "website": "http://www.facebook.com",
         "description": "Founded in 2004, Facebook's mission is to give people the power to share and make the world more open and connected. People use Facebook to stay connected with friends and family, to discover what's going on in the world, and to share and express what matters to them.",
         "logo": "FacebookParse-logo.png"
     },
     {
         "name": "Patreon",
-        "website": "www.patreon.com",
+        "website": "http://www.patreon.com",
         "description": "Founded in May 2013 and based in San Francisco, California, Patreon was created to enable fans to support and engage with the artists and creators they love. Empowering a new generation of creators, Patreon is bringing patronage back to the 21st century.",
         "logo": "Patreon-logo.png"
     },
     {
         "name": "Two Sigma",
-        "website": "www.twosigma.com",
+        "website": "http://www.twosigma.com",
         "description": "We are Two Sigma. More than 800 people who believe the scientific method is the best way to approach investing. If harnessing the power of technology, mathematics, and data to help real people is something that excites you, let's connect.",
         "logo": "TwoSigma-logo.jpg",
         "apiUrl": "http://beakernotebook.com/"
