@@ -1,329 +1,306 @@
 {
-    "apis" : [
+    "apis": [
     {
-        "name": "HubSpot",
-        "website": "http://product.hubspot.com/",
-        "description": "HubSpot was founded in 2006 as a result of a simple observation: people have transformed how they live, work, shop and buy, but businesses have not adapted. This mismatch led Brian Halligan and Dharmesh Shah to create the vision for the inbound experience and to develop HubSpot's platform to support it. With our powerful, easy to use, integrated set of applications, businesses can attract, engage and delight customers by delivering inbound experiences that are relevant, helpful and personalized.",
-        "logo": "HubSpot-logo.png"
+        "name": "Disney",
+        "website": "disneytechjobs.com",
+        "description": "At Disney, we're storytellers. We make the impossible, possible. We do this through utilizing and developing cutting-edge technology and pushing the envelope to bring stories to life through our movies, products, interactive games, parks and resorts, and media networks. Now is your chance to join our talented team that delivers unparalleled creative content to audiences around the world.",
+        "logo": "disney.png"
     },
     {
         "name": "Synaptics",
-        "website": "http://www.synaptics.com",
-        "description": "Synaptics is the pioneer and leader of the human interface revolution, bringing innovative and intuitive user experiences to intelligent devices. Synaptics' broad portfolio of touch, display, and biometrics products is built on the company's rich R&D and supply chain capabilities. With solutions designed for mobile, PC and automotive industries, Synaptics combines ease of use, functionality and aesthetics to enable products that help make our digital lives more productive, secure and enjoyable.\n",
-        "logo": "Synaptics-logo.jpg"
-    },
-    {
-        "name": "Nielsen",
-        "website": "http://www.nielsen.com/",
-        "description": "Nielsen is a global performance management company that provides a comprehensive understanding of what consumers Watch and Buy. Nielsen's Watch segment provides media and advertising clients with Total Audience measurement services across all content consumption devices. The Buy segment offers CPG manufacturers and retailers the industry's only global view of retail performance measurement. Nielsen has operations in over 100 countries that cover more than 90 percent of the world's population.",
-        "logo": "Nielsen-logo.png"
-    },
-    {
-        "name": "Particle",
-        "website": "https://www.particle.io/",
-        "description": "Particle creates tools to help companies and people connect everyday electronics to the internet and create amazing new products and experiences. We've developed the Spark Core and Photon development boards, along with the Particle Cloud, to enable and connect devices worldwide. Since launch, Particle has shipped to 75+ countries, and has been used by tens of thousands of engineers at companies like Google, Disney, and Apple. Particle launched in 2013 and is based in San Francisco, California.",
-        "logo": "Particle-logo.png",
-        "apiUrl" : "https://api.particle.io/",
-    },
-    {
-        "name": "KPCB",
-        "website": "http://kpcbfellows.com/",
-        "description": "Kleiner Perkins Caufield & Byers (KPCB) partners with the brightest entrepreneurs to turn disruptive ideas into world-changing businesses. We started the KPCB Fellows program to match the brightest students with one-of-a-kind work experiences at companies like Aiware, Coursera, Square, Uber and many other companies. On top of that, fellows are introduced to the KPCB network of venture partners, portfolio company CEOs and other brilliant students. Check out kpcbfellows.com for more information.",
-        "logo": "KPCB-logo.png",
-        "apiUrl": "http://kpcbfellows.com/build-for-good/challenges"
+        "website": "www.synaptics.com",
+        "description": "Synaptics is the pioneer and leader of the human interface revolution, bringing innovative and intuitive user experiences to intelligent devices. Synaptics' broad portfolio of touch, display, and biometrics products is built on the company's rich R&D and supply chain capabilities. With solutions designed for mobile, PC and automotive industries, Synaptics combines ease of use, functionality and aesthetics to enable products that help make our digital lives more productive, secure and enjoyable.",
+        "logo": "synaptics.png"
     },
     {
         "name": "Square",
-        "website": "http://www.squareup.com",
-        "description": "Square  is a financial services, merchant services aggregator and mobile payment company based in San Francisco, California. The company markets several software and hardware payments products, including Square Register and Square Reader, and has expanded into small business services such as Square Capital, a financing program, and Square Payroll.  At Square we value design, user experience, and accuracy. We're looking for engineers who share our values about simplifying the world of payments.",
-        "logo": "Square-logo.jpg",
-        "apiUrl": "http://square.github.io/"
+        "website": "https://squareup.com/",
+        "apiUrl": "http://square.github.io/",
+        "description": "We started with a simple idea that everyone should be able to accept credit cards and we've been rethinking buying and selling ever since.\n\nBuying and selling sound like simple things and they should be. Somewhere along the way, they got complicated. We're working hard to make commerce easy for everyone.\n\nFounded in 2009 and headquartered in San Francisco, Square is currently available in the United States, Canada, and Japan.",
+        "logo": "square.png"
     },
     {
-        "name": "Microsoft",
-        "website": "http://www.microsoft.com/university",
-        "description": "No matter what your passion is, you'll find it here.  Imagine the opportunities you'll have in a company with more than 100,000 employees in more than 100 countries, working on hundreds of products—spanning games, phones, developer tools, business solutions and operating systems.  We work hard, but we value work/life balance, and each of us defines what that means to us.  So why not explore what we do, where we do it, and what life is really like at Microsoft.  You just might be surprised.",
-        "logo": "Microsoft-logo.png",
-        "apiUrl": "http://aka.ms/azureeast"
-    },
-    {
-        "name": "Nutanix",
-        "website": "http://www.nutanix.com/",
-        "description": "Nutanix delivers invisible infrastructure for next-generation enterprise computing, elevating IT to focus on the applications and services that power their business. The company's software-driven Xtreme Computing Platform natively converges compute, virtualization and storage into a single solution to drive simplicity in the datacenter. Using Nutanix, customers benefit from predictable performance, linear scalability and cloud-like infrastructure consumption. Learn more at www.nutanix.com.",
-        "logo": "Nutanix-logo.png"
-    },
-    {
-        "name": "Google",
-        "website": "google.com/careers/students",
-        "description": "Google's mission is to organize the world's information and make it universally accessible and useful. And while we're committed to building the perfect search engine, our work goes well beyond delivering accurate search results. Our strategy is simple: hire great people and support them in turning their aspirations into reality. Googlers are bright, passionate people with diverse backgrounds coming together to create a unique culture. Working at Google is as much a mindset as it is a job!",
-        "logo": "Google-logo.jpg",
-        "apiUrl": "http://developers.google.com"
-    },
-    {
-        "name": "Celect",
-        "website": "http://www.celect.net",
-        "description": "Celect is a venture-backed company based in Boston with the mission of bringing science to the art of retail.  Celect has built a predictive platform that provides actionable insights to retailers by understanding how their customers choose.  Founded by MIT professors and based on award winning science on choice modeling, Celect has built an experienced team of data scientists and retail experts, and a development team that has won some of the most prestigious hackathons in the US.",
-        "logo": "Celect-logo.png"
-    },
-    {
-        "name": "Kensho Technologies Inc.",
-        "website": "http://www.kensho.com",
-        "description": "Kensho is pioneering real-time statistical computing systems and scalable analytics architectures—the next-generation of improvements to the global financial system.  Backed by Goldman Sachs, Google Ventures and NBC, Kensho was founded out of MIT and Harvard in 2013.  Kensho's team is a diverse and spirited group of engineers and scientists who are accomplished analytical thinkers and come from veteran positions at Google, Apple, Facebook, and the United States Federal Reserve.",
-        "logo": "KenshoTechnologiesInc-logo.png"
-    },
-    {
-        "name": "KCG",
-        "website": "https://www.kcg.com/",
-        "description": "KCG is a leading independent securities firm offering investors a range of services designed to address trading needs across asset classes, product types and time zones. As one of the world's largest market makers, KCG combines advanced technology with exceptional client service to deliver unique liquidity, lower transaction costs, and improve pricing. For every order, KCG provides investors with a solution, whether market making or principal, lit or dark, voice or automated.",
-        "logo": "KCG-logo.png"
-    },
-    {
-        "name": "FiscalNote",
-        "website": "http://www.fiscalnote.com",
-        "description": "FiscalNote, a two-year old, venture-backed analytics company, unlocks legislative and regulatory data using cutting-edge artificial intelligence and beautiful design, engineering the products organizations need to make better decisions and manage government risk. Our vision is to make FiscalNote mission-critical to every office and organization. We aim to foster a transparent political and legal system through the use of cutting-edge engineering and data science on open data.",
-        "logo": "FiscalNote-logo.png",
-        "apiUrl": "https://docs.fiscalnote.com/"
-    },
-    {
-        "name": "Jane Street",
-        "website": "https://www.janestreet.com/",
-        "description": "Jane Street is a quantitative trading firm that uses innovative technology, a scientific approach, and a deep understanding of markets to guide our business. We are a global liquidity provider and market maker, operating around the clock and around the globe, out of offices in New York, London and Hong Kong.\n\nThe markets change rapidly, and we need to change faster still. Every day, we come to work with new problems to solve, new systems to build and new theories to test.",
-        "logo": "JaneStreet-logo.png"
-    },
-    {
-        "name": "Datto Inc.",
-        "website": "http://www.datto.com/",
-        "description": "Datto is an innovative provider of comprehensive backup, recovery and business continuity solutions used by thousands of managed service providers worldwide. Datto's 140+ PB purpose-built cloud and family of software and hardware devices provide Total Data Protection everywhere business data lives.  Datto's innovative technologies include Instant Virtualization, Screenshot Backup Verification™, Inverse Chain Technology™, Backup Insights™, and end-to-end encryption.",
-        "logo": "DattoInc-logo.png"
-    },
-    {
-        "name": "Progress",
-        "website": "http://progress.com/hackmit",
-        "description": "Progress Software is a global software company with HQ in Bedford, MA. Progress provides solutions for the rapid development, deployment and management of applications driven by data for web and mobile, running on cloud or on premise.\n\nDeveloper-centered products at Progress include the Telerik Platform (mobile development), KendoUI (HTML5 UI), NativeScript (cross-platform native development with JavaScript) and Modulus (Docker, Node.js, PHP, Java and Python PaaS).",
-        "logo": "Progress-logo.png",
-        "apiUrl": "http://progress.github.io/hackmit"
-    },
-    {
-        "name": "Bloomberg",
-        "website": "http://www.bloomberg.com/rd",
-        "description": "We are the top Tech and Software company serving the financial industry. Bloomberg gives influential decision makers a critical edge by connecting them to a dynamic network of information, people and ideas. The company's strength delivering data, news and analytics through innovative technology, quickly and accurately is at the core of the Bloomberg Professional service, which provides real time financial information to more than 315,000 subscribers globally.",
-        "logo": "Bloomberg-logo.JPG"
-    },
-    {
-        "name": "Concur",
-        "website": "http://www.concur.com",
-        "description": "Concur, a part of SAP, imagines the way the world should work, offering cloud-based services that make it simple to manage travel and expenses. \nBy connecting data, applications and people, Concur delivers an effortless experience and total transparency into spending wherever and whenever it happens. \nConcur services adapt to individual employee preferences and scale to meet the needs of companies from small to large, so they can focus on what matters most.",
-        "logo": "Concur-logo.png",
-        "apiUrl" : "http://concurlabs.github.io/ConcurHackMIT/"
-    },
-    {
-        "name": "TripAdvisor",
-        "website": "http://www.tripadvisor.com",
-        "description": "Plan and book your perfect trip with TripAdvisor, the world's largest travel site. Browse over 225 million candid reviews, opinions, and photos of hotels, restaurants, attractions, and more - all by travelers like you. You'll also find low airfares, free travel guides, worldwide vacation rental listings, popular forums with advice about virtually every destination, and more. No wonder so many travelers make TripAdvisor their first stop before every trip.",
-        "logo": "TripAdvisor-logo.png"
-    },
-    {
-        "name": "AQR Capital Management",
-        "website": "https://www.aqr.com/",
-        "description": "AQR is a global investment firm built at the intersection of financial theory and practical application. We strive to deliver concrete, long-term results by looking past market noise to identify and isolate the factors that matter most, and by developing ideas that stand up to rigorous testing. By putting theory into practice, we have become a leader in alternative strategies and an innovator in traditional portfolio management since 1998.",
-        "logo": "AQRCapitalManagement-logo.png"
-    },
-    {
-        "name": "Levant Power",
-        "website": "http://www.levantpower.com",
-        "description": "Levant Power is a venture-backed Boston area startup spun out of MIT in 2009. We are reinventing the future of the automobile. Our product, GenShock, is a digital ride system that virtually eliminates the perception of road bumps while enabling unprecedented handling. The software and mechatronics technology has broad application across motion control industries including aviation, transportation, industrial manufacturing, and robotics.",
-        "logo": "LevantPower-logo.gif"
-    },
-    {
-        "name": "KAYAK",
-        "website": "http://KAYAK.com",
-        "description": "KAYAK is the best place to plan, book, and manage your travels. We compare hundreds of travel sites at once. If you want to spend hours searching every airline, hotel and other travel site yourself, that's one option. If you'd prefer an easier way to find a good deal, we can help. Our free mobile app is available on iPhone, iPad, Android, and Windows Phone, and is the #1 Mobile Travel App. We have local KAYAK sites in thirty countries.",
-        "logo": "KAYAK-logo.png",
-        "queries": "kayak"
-    },
-    {
-        "name": "Hudson River Trading",
-        "website": "http://www.hudson-trading.com",
-        "description": "Hudson River Trading (HRT) is a multi-asset class quantitative trading firm based in the heart of New York City. Founded in 2002, HRT develops automated trading algorithms using advanced mathematical and statistical modeling techniques and an extremely high-performance computing environment. With offices in New York, London and Singapore, HRT trades equities, futures, options, currencies and fixed income on over 50 markets worldwide.",
-        "logo": "HudsonRiverTrading-logo.jpg"
-    },
-    {
-        "name": "Clarifai",
-        "website": "http://clarifai.com",
-        "description": "Clarifai was founded in 2013 by Matthew Zeiler to bring the world's best image recognition technology to market. Our first image recognition systems held the top 5 spots for classifying objects in images in the ImageNet 2013 competition. Since then Clarifai's deep learning systems have improved orders of magnitude in speed, vocabulary size, memory footprint and have expanded beyond images to extract knowledge from all forms of data.",
-        "logo": "Clarifai-logo.jpg",
-        "apiUrl" : "http://clarifai.com/api"
-    },
-    {
-        "name": "a16z",
-        "website": "http://www.a16z.com",
-        "description": "Andreessen Horowitz backs bold entrepreneurs who move fast, think big and are committed to building the next major franchises in technology. Founded by Marc Andreessen and Ben Horowitz, we provide entrepreneurs with access to our deep expertise and insights in innovation, business development, market intelligence, executive and technical talent, and marketing and brand building. Find us in Menlo Park, Calif., and at www.a16z.com",
-        "logo": "a16z-logo.png"
-    },
-    {
-        "name": "1517",
-        "website": "http://www.1517fund.com",
-        "description": "1517 supports makers and hackers with grant funding to kickstart projects, pre-seed team funding, and seed funding for startups. The general partners, Danielle Strachman and Michael Gibson were on the founding team of the Thiel Fellowship, designed the program, and mentored every fellow. They are excited to expand upon their work with young founders with their new fund. Contact them at info@1517fund.com for more information.",
-        "logo": "1517-logo.png"
-    },
-    {
-        "name": "The Walt Disney Company",
-        "website": "http://disneytechjobs.com",
-        "description": "At Disney, we're storytellers. We make the impossible, possible. We do this through utilizing and developing cutting-edge technology and pushing the envelope to bring stories to life through our movies, products, interactive games, parks and resorts, and media networks. As the global leader in high-quality family entertainment we deliver unparalleled creative content and experiences to audiences and guests around the world.",
-        "logo": "TheWaltDisneyCompany-logo.png"
-    },
-    {
-        "name": "Rough Draft Ventures",
-        "website": "roughdraft.vc",
-        "description": "Rough Draft Ventures is a student team investing in university entrepreneurs at the earliest stage. RDV provides investments up to $25K for student teams to help them build their products, as well as support their portfolio through their community of young founders, advisor network, and initiatives to help early-stage startups succeed in launching their ventures.",
-        "logo": "RoughDraftVentures-logo.jpg"
-    },
-    {
-        "name": "Akamai Technologies",
-        "website": "http://www.akamai.com",
-        "description": "Akamai is the global leader in Content Delivery Network (CDN) services, making the Internet fast, reliable and secure for its customers. The company's advanced web performance, mobile performance, cloud security and media delivery solutions are revolutionizing how businesses optimize consumer, enterprise and entertainment experiences for any device, anywhere.",
-        "logo": "AkamaiTechnologies-logo.png"
-    },
-    {
-        "name": "Thalmic Labs",
-        "website": "https://www.myo.com/",
-        "description": "Thalmic Labs is pioneering new ways of interacting with digital devices. With a mission to merge people and technology, the company is revolutionizing how we will interact with technology in the future. Its first product, the Myo™ armband, measures electrical activity in muscles to wirelessly control computers, phones and other digital technologies.",
-        "logo": "ThalmicLabs-logo.png",
-        "apiUrl": "https://developer.thalmic.com/hackers/"
-    },
-    {
-        "name": "Uber",
-        "website": "https://www.uber.com/jobs",
-        "description": "Uber is a mobile app that connects people all over the world to efficient, reliable transportation. But much more than that, Uber is a highly-evolved logistics platform supported by the hard work and innovations of really bright people. Every Uber employee is an individual contributor, empowered to make a real-world impact with their work.",
-        "logo": "Uber-logo.png",
-        "apiUrl": "http://developer.uber.com"
-    },
-    {
-        "name": "General Electric",
-        "website": "http://www.ge.com/",
-        "description": "GE imagines things others don't, builds things others can't and delivers outcomes that make the world work better. GE brings together the physical and digital worlds in ways no other company can. In its labs and factories and on the ground with customers, GE is inventing the next industrial era to move, power, build and cure the world.",
-        "logo": "GeneralElectric-logo.png"
-    },
-    {
-        "name": "State Street",
-        "website": "http://www.statestreet.com",
-        "description": "State Street is a top provider of financial services to institutional investors. We have a of combination innovation and growth opportunities, enhance client service and optimize cost structures. Whether you are starting your career, or are new to the industry, we have a range of employee resources to build a fulfilling career.",
-        "logo": "StateStreet-logo.jpg"
+        "name": "Two Sigma",
+        "website": "https://www.twosigma.com/careers/life-at-two-sigma/",
+        "apiUrl": "http://beakernotebook.com/",
+        "description": "We are Two Sigma. \n\nWe imagine breakthroughs in investment management, insurance and related fields by pushing the boundaries of what open source and proprietary technology can do. \n\nOur engineers and modelers harness data at tremendous scale, using machine learning, distributed computing and other technologies to build powerful predictive models. \n\nCome build with us!",
+        "logo": "twosigma.png"
     },
     {
         "name": "Postmates",
         "website": "http://postmates.com/developer",
-        "description": "Postmates is the leading on-demand logistics provider. With nearly 14,000 active Postmates, the company operates the largest on-demand delivery fleet in 30 major metropolitan markets in the US. Postmates' overall mission is to power local, on-demand logistics focused on fast deliveries from any type of merchant at scale.",
-        "logo": "Postmates-logo.png",
-        "apiUrl": "http://postmates.com/developer"
+        "apiUrl": "http://postmates.com/developer",
+        "description": "Using the Postmates Delivery API, developers can integrate our on-demand local delivery platform into their applications. The API is designed to allow application developers to check prices, book a delivery, then follow updates on that delivery till completion.",
+        "logo": "postmates.png"
     },
     {
-        "name": "Capital One",
-        "website": "https://campus.capitalone.com/",
-        "description": "Capital One is one of the 10 largest banks by deposits in the country, and a Fortune 500 company. We're a diversified bank with a broad array of financial products and services. We lead by innovation. We approach financial services challenges the way an Internet start-up would approach a development challenge.",
-        "logo": "CapitalOne-logo.png",
-        "apiUrl": "http://api.reimaginebanking.com/"
+        "name": "Philips",
+        "website": "http://www.philips.com/a-w/research/locations/cambridge-north-america.html",
+        "description": "The Philips Research North American team is part of a global organization that provides breakthrough innovations in the area of healthcare technology and well-being.\n \nSeveral exciting opportunities are available at our Cambridge Innovation Labs in the following domains:\n-Bioinformatics & Genomics\n-Cloud Computing & Big Data Analytics \n-Image Guided Interventions\n-Machine Learning & Data Mining\n-Clinical Informatics\n-Medical Ultrasound\n-Natural Language Processing\n-Radiology",
+        "logo": "philips.png"
     },
     {
-        "name": "Fitbit",
-        "website": "https://www.fitbit.com/",
-        "description": "We're a passionate team dedicated to health & fitness who are building products that help transform people's lives. While health can be serious business, we feel it doesn't have to be. We believe you're more likely to reach your goals if you're encouraged to have fun, smile, and feel empowered along the way.",
-        "logo": "Fitbit-logo.jpg",
-        "apiUrl": "https://dev.fitbit.com/"
+        "name": "Intel",
+        "website": "https://software.intel.com/iot/hardware/edison",
+        "apiUrl": "https://software.intel.com/iot/hardware/edison",
+        "description": "The Intel IoT Developer Program offers knowledge, tools and experts to turn your innovative ideas into IoT Solutions. Dream it, Build it with the Intel IoT Developer Kit for Intel Edison. With easy-to-use hardware, software, tools and cloud services, it delivers usability improvements and faster start to development times.",
+        "logo": "intel.png"
+    },
+    {
+        "name": "Progress",
+        "website": "http://progress.com",
+        "apiUrl": "http://progress.github.io/hackmit/",
+        "description": "Progress is a global company headquartered in Boston.  We focus on building and delivering engaging customers experiences for today's rapidly changing digital environment.  We have strong background in developer tools, UI components , mobile tools and Web Sites.\n\nThe key product we bring to HackMIT is NativeScript, a framework to create cross-platform native mobile apps with JavaScript and CSS.",
+        "logo": "progress.png"
+    },
+    {
+        "name": "PSN",
+        "website": "https://www.playstation.com/en-us/",
+        "description": "PlayStation is the number one selling game console in the world. At our core, the PlayStation has always been THE console in which users could play games online with people all over the world. At this point, we're establishing ourselves as the entertainment hub in the home with a catalogue of products available in just about any device ranging from the PS4 console, to the web, set top boxes (Apple TV, Amazon Fire Stick, Roku, Google Chromecast), Smart TV's, iOS, and mobile phones.",
+        "logo": "psn.png"
+    },
+    {
+        "name": "Nielsen",
+        "website": "http://www.nielsen.com/",
+        "description": "Over 85% of U.S. Consumers used their mobile device while watching TV, and within the next four years, women will control $28 Trillion in annual consumer spending. At Nielsen, we help analyze and understand what all this means to our consumers, and how it truly influences and drives consumer behavior in what people watch and what people buy. We have a presence in over 100 countries spread across Africa, Asia, Australia, Europe, Middle East, North America, South America and Russia.",
+        "logo": "nielsen.png"
     },
     {
         "name": "Nasdaq",
-        "website": "https://www.slideshare.net/secret/B5LbVpynvAuF7S",
-        "description": "The NASDAQ OMX Group, Inc. provides trading, clearing, exchange technology, regulatory, securities listing, information, and public company services worldwide. It operates in four segments: Market Services, Listing Services, Information Services, and Technology Solutions.",
-        "logo": "Nasdaq-logo.png"
+        "website": "http://business.nasdaq.com/",
+        "apiUrl": "https://github.com/Nasdaq/DataOnDemand",
+        "description": "Nasdaq is a leading provider of trading, clearing, exchange technology, listing, information and public company services across six continents. Through its diverse portfolio of solutions, Nasdaq enables customers to plan, optimize and execute their business vision with confidence, using proven technologies that provide transparency and insight for navigating today's global capital markets.",
+        "logo": "nasdaq.png"
     },
     {
-        "name": "Facebook + Parse",
-        "website": "http://www.facebook.com",
+        "name": "Muse",
+        "website": "http://www.choosemuse.com",
+        "description": "Muse is a brain sensing headband that makes meditation easier.  Meditation has been proven to reduce stress and increase focus, but it can be hard to know if you're doing it right.  Muse provides you with real-time audio feedback on what's happening in your brain when you meditate, letting you know when your mind wanders and teaching you to regain focus.  Think of Muse as your personal guide to meditation as you journey toward a calmer and more present self.",
+        "logo": "muse.png"
+    },
+    {
+        "name": "Microsoft",
+        "website": "https://msdn.microsoft.com/en-us/imagine/imagine-home.aspx",
+        "apiUrl": "http://microsofthackers.github.io/",
+        "description": "Microsoft is the leading platform and productivity company for the mobile-first, cloud-first world, and its mission is to empower every person and every organization on the planet to achieve more.",
+        "logo": "microsoft.png"
+    },
+    {
+        "name": "Local Motors Labs",
+        "website": "https://localmotors.com/dronechallenge/",
+        "description": "Local Motors is a tech company that designs, builds and sells vehicles. The LM platform combines global co-creation w/local micro-manufacturing to bring hardware innovations, like the world's 1st 3D-printed car, to market at unprecedented speed.  www.localmotors.com\n\nAirbus Group is a global leader in aeronautics, space and related services. In 2015, the Group, comprising Airbus, Airbus Defence and Space and Airbus Helicopters, generated revenues of 64.5B and employed a workforce of over 136K.",
+        "logo": "localmotors.png"
+    },
+    {
+        "name": "Kensho",
+        "website": "https://www.kensho.com/#/",
+        "description": "Kensho is pioneering machine intelligence systems and scalable analytics - and deploying them across the most critical government and commercial institutions in the world to solve some of the hardest analytical problems of our time. Backed by Google Ventures and Goldman Sachs, Kensho was founded out of MIT and Harvard in 2013. Our multi-talented team includes one of the seven members of the original Apple iPhone engineering team, PhD physicists, and Quantum Computing PhDs.",
+        "logo": "kensho.png"
+    },
+    {
+        "name": "KCG",
+        "website": "https://www.kcg.com/",
+        "description": "KCG offers leading services designed to address trading needs across asset classes, product types and time zones. As one of the world's largest independent market makers, we combine advanced technology with exceptional client service to deliver unique liquidity, lower transaction costs and improve pricing. We build the connections that deliver maximum value for our clients and create more efficient, resilient markets around the world.",
+        "logo": "kcg.png"
+    },
+    {
+        "name": "Jet.com",
+        "website": "https://jet.com/",
+        "description": "Jet is reshaping e-commerce as we know it. We believe in bold. That means taking risks, asking why not, looking where no ones looked before and bringing it! We are on the relentless pursuit to build the greatest shopping experience, while saving customers every penny possible. With some amazing technology (and a little magic), Jet optimizes the supply chain, removes unnecessary costs, sprinkles in surprise and delight, all while saving customers even more money and we're just getting started.",
+        "logo": "jet.png"
+    },
+    {
+        "name": "Hudson River Trading",
+        "website": "http://www.hudson-trading.com/",
+        "description": "Hudson River Trading (HRT) is a multi-asset class quantitative trading firm based in the heart of New York City. Founded in 2002, HRT develops automated trading algorithms using advanced mathematical and statistical modeling techniques and an extremely high-performance computing environment. With offices in New York, London and Singapore, HRT trades equities, futures, options, currencies and fixed income on over 50 markets worldwide.",
+        "logo": "hudsonrivertrading.png"
+    },
+    {
+        "name": "D. E. Shaw",
+        "website": "www.deshaw.com",
+        "description": "Headquartered in New York City, the D. E. Shaw group is a global investment and technology development firm with offices around the world. With a culture that combines some of the best aspects of academia, finance, and technology, we pride ourselves on a work environment that promotes collaboration, integrity, and adherence to the highest possible ethical standards. We've learned that when an extraordinary team sets extraordinarily ambitious goals, unexpected breakthroughs can be achieved.",
+        "logo": "deshaw.png"
+    },
+    {
+        "name": "Google",
+        "website": "google.com/careers/students",
+        "description": "Google is a global technology leader focused on improving the ways people connect with information. Google's innovations in web search and advertising have made its website a top Internet property and its brand one of the mostrecognized in the world.",
+        "logo": "google.png"
+    },
+    {
+        "name": "Coinbase",
+        "website": "www.coinbase.com",
+        "apiUrl": "https://developers.coinbase.com/",
+        "description": "Founded in June of 2012, Coinbase is a digital currency wallet and platform where merchants and consumers can transact with new digital currencies like bitcoin and ethereum.",
+        "logo": "coinbase.png"
+    },
+    {
+        "name": "Facebook",
+        "website": "www.facebook.com",
         "description": "Founded in 2004, Facebook's mission is to give people the power to share and make the world more open and connected. People use Facebook to stay connected with friends and family, to discover what's going on in the world, and to share and express what matters to them.",
-        "logo": "FacebookParse-logo.png"
+        "logo": "facebook.png"
     },
     {
-        "name": "Patreon",
-        "website": "http://www.patreon.com",
-        "description": "Founded in May 2013 and based in San Francisco, California, Patreon was created to enable fans to support and engage with the artists and creators they love. Empowering a new generation of creators, Patreon is bringing patronage back to the 21st century.",
-        "logo": "Patreon-logo.png"
+        "name": "Five Rings",
+        "website": "www.fiverings.com",
+        "description": "Five Rings is a proprietary trading firm founded with a vision of combining strategy, innovation and technology to succeed in today's global markets. Five Rings trades in various domestic and international markets, both established and esoteric. \n\nOur team constantly seeks new opportunities, analyzes their risks and rewards, and creates strategies and tools to capitalize on them. We have an open culture and encourage the flow of knowledge and ideas between all areas of the firm.",
+        "logo": "fiverings.jpg"
     },
     {
-        "name": "Two Sigma",
-        "website": "http://www.twosigma.com",
-        "description": "We are Two Sigma. More than 800 people who believe the scientific method is the best way to approach investing. If harnessing the power of technology, mathematics, and data to help real people is something that excites you, let's connect.",
-        "logo": "TwoSigma-logo.jpg",
-        "apiUrl": "http://beakernotebook.com/"
+        "name": "Firebase",
+        "website": "https://firebase.google.com/",
+        "apiUrl": "https://firebase.google.com",
+        "description": "Firebase is a suite of tools to help mobile and web developers build extraordinary apps quickly by providing developer-friendly APIs for powerful tools including a realtime database, file uploads, mobile notifications, static web hosting, user authentication, crash reporting, automated testing, and others.",
+        "logo": "firebase.png"
     },
     {
-        "name": "Meteor Development Group",
-        "website": "http://meteor.com",
-        "description": "Meteor Development Group is the developer experience company providing the platform and tools for developers everywhere to build web and mobile apps that are a delight to use, faster than they ever thought possible.",
-        "logo": "MeteorDevelopmentGroup-logo.png",
-        "apiUrl": "http://meteor.com/install"
+        "name": "Fin",
+        "website": "www.fin.com",
+        "description": "Fin is a 24x7 premium service, powered by both machine and human intelligence, that finds answers, sends messages, and remembers everything for you. We are dogmatic about getting the right answer, not about pursuing some abstract concept of AI. So, Fin is more accurate, powerful, and better able to handle real nuance and complexity than anything else. It feels like having the best possible personal assistant, except it never sleeps, is much faster, and has access to deep knowledge and technology",
+        "logo": "fin.png"
+    },
+    {
+        "name": "Concur",
+        "website": "https://www.concur.com/",
+        "description": "Concur is a company on a mission to provide solutions to the problems plaguing business travel, expenses and invoices. We provide cloud-based and mobile solutions to help companies and their employees save time and money. As an innovative tech and travel leader, we're driven to success by an industry that is constantly changing.  This means we never stop thinking of ways to evolve our products and the experiences clients have with them every day.",
+        "apiUrl": "https://developer.concur.com/ AND https://tripit.com/developer/",
+        "logo": "concur.png"
+    },
+    {
+        "name": "Citadel",
+        "website": "http://www.citadel.com/",
+        "description": "Citadel is a worldwide leader in finance that uses next-generation technology and alpha-driven strategies to transform the global economy. We tackle some of the toughest problems in the industry by pushing ourselves to be the best again and again. It's demanding work for the brightest minds, but we wouldn't have it any other way. Here, great ideas can come from anyone. Everyone. You.",
+        "logo": "citadel.png"
+    },
+    {
+        "name": "Celect",
+        "website": "https://www.celect.com",
+        "description": "Celect is a predictive analytics platform that allows retailers to understand how an individual customer shopping at a specific location chooses from an assortment of products. The technology builds on a fundamental advance in customer choice modeling and machine learning called by MIT's Computer Science and Artificial Intelligence Laboratory, one of the 50 greatest innovations it has ever produced.",
+        "logo": "celect.png"
+    },
+    {
+        "name": "Capital One",
+        "website": "https://campus.capitalone.com",
+        "apiUrl": "http://api.reimaginebanking.com/",
+        "description": "Capital One started with a simple principle attract talented people and give them the opportunity to be great. Founded in 1988, we harnessed the power of big data to create customized products that disrupted the credit card industry. Today, with more than 65-million customers and 40,000 associates worldwide, our Cloud-enabled infrastructure, Open Source culture, and leading-edge data and analytics platforms are fueling Capital One's position as a digital leader.",
+        "logo": "capitalone.png"
+    },
+    {
+        "name": "BookBub",
+        "website": "www.bookbub.com",
+        "description": "BookBub is a free service that helps millions of readers discover great deals on acclaimed ebooks while providing publishers and authors with a way to drive sales and find new fans. Members receive a personalized daily email alerting them to the best free and deeply discounted titles matching their interests as selected by our editorial team. BookBub works with all major ebook retailers and devices, and is the industry's leading ebook price promotion service.",
+        "logo": "bookbub.png"
+    },
+    {
+        "name": "BNP Paribas",
+        "website": "http://usa.bnpparibas/en/",
+        "description": "BNP Paribas is a leading bank in Europe with a strong and growing franchise in the Americas and Asia-Pacific. It has a presence in 75 countries with nearly 190,000 employees globally. The Group has key positions in its three main activities: Domestic Markets  and International Financial Services (together Retail Banking & Services) and Corporate & Institutional Banking, which serves two client franchises: corporate clients and institutional investors.",
+        "logo": "bnp.png"
+    },
+    {
+        "name": "Andreessen Horowitz",
+        "website": "http://a16z.com",
+        "description": "Andreessen Horowitz backs bold entrepreneurs who move fast, think big, and are committed to building the next major franchises in technology. Founded by Marc Andreessen and Ben Horowitz, the firm provides entrepreneurs with access to expertise and insights in innovation, executive and technical talent, market intelligence, policy and regulatory affairs, business development, and marketing and brand-building. Find us in Menlo Park, Calif., and at www.a16z.com.",
+        "logo": "a16z.png"
     },
     {
         "name": "Amadeus",
-        "website": "http://www.amadeus.com/",
-        "description": "Amadeus provides the technology that keeps the travel sector moving - from initial search to making a booking, from pricing to ticketing, from managing reservations to managing check-in and departure.",
-        "logo": "Amadeus-logo.jpg"
+        "website": "http://www.amadeus.com",
+        "apiUrl": "https://sandbox.amadeus.com/",
+        "description": "Amadeus provides the technology, which keeps the travel sector moving - from initial search to making a booking, from pricing to ticketing, from managing reservations to managing check-in and departure processes.\n\nWe do this by joining the dots - connecting key players in the travel industry: travel agencies, corporations, airlines, airports, hotels, railways, and more.",
+        "logo": "amadeus.png"
+    },
+    {
+        "name": "Akamai",
+        "website": "www.akamai.com",
+        "description": "Akamai helps businesses connect the hyperconnected, empowering them to transform and reinvent their business online. We remove the complexities of technology so you can focus on driving your business faster forward enabling you to embrace trends like cloud, mobile and media, while overcoming the challenges presented by security threats and the need to reach users globally.",
+        "logo": "akamai.png"
+    },
+    {
+        "name": "Ab Initio",
+        "website": "http://abinitio.com",
+        "description": "Ab Initio Software is a general purpose data processing platform for enterprise-scale, mission-critical applications such as batch and real-time processing for data warehousing, operational systems, transactional systems and analytics. Ab Initio solves the problems of scalability, development time, performance, metadata management, and integration at the world's largest companies.",
+        "logo": "abinitio.png"
+    },
+    {
+        "name": "AQR",
+        "description": "AQR is a global investment management firm built at the intersection of financial theory and practical application. We invest on behalf of our clients from pension funds and insurance companies to endowments and foundations to sovereign wealth funds and financial advisors. Our commitment to our clients is to help them exceed their long-term objectives. We do this by filtering out market noise to identify and isolate what matters most, and by implementing ideas that stand up to rigorous testing",
+        "logo": "aqr.png"
+    },
+    {
+        "name": "GE",
+        "website": "http://www.ge.com/careers/culture/university-students/digital-technology-leadership-program/global",
+        "apiUrl": "https://www.predix.io/",
+        "logo": "ge.png"
+    },
+    {
+        "name": "Akuna Capital",
+        "website": "http://www.akunacapital.com/",
+        "logo": "akuna.png"
+    },
+    {
+        "name": "Particle",
+        "website": "www.particle.io",
+        "logo": "particle.png"
+    },
+    {
+        "name": "Accenture",
+        "logo": "accenture.png"
+    },
+    {
+        "name": "Red Hat",
+        "website": "http://redhat.com",
+        "logo": "redhat.png"
+    },
+    {
+        "name": "Element14",
+        "logo": "element14.png"
+    },
+    {
+        "name": "Wolfram Alpha",
+        "website": "http://www.wolfram.com/",
+        "logo": "wolframalpha.png"
+    },
+    {
+        "name": "Accel",
+        "website": "http://accel.com",
+        "logo": "accel.png"
+    },
+    {
+        "name": "Jane Street",
+        "website": "https://www.janestreet.com/",
+        "logo": "janestreet.png"
+    },
+    {
+        "name": "Ford",
+        "website": "corporate.ford.com",
+        "apiUrl": "www.openxcplatform.com",
+        "logo": "ford.png"
     },
     {
         "name": "Cruise",
-        "website": "http://www.getcruise.com/",
-        "description": "We're the driverless car company. Our team is small, but we move quickly.  In less than a year, we built prototype vehicles that have logged over 10,000 autonomous miles on California highways.",
-        "logo": "Cruise-logo.png"
+        "website": "https://www.getcruise.com/",
+        "logo": "cruise.png"
     },
     {
-        "name": "Tinder",
-        "website": "http://www.gotinder.com/",
-        "description": "Any swipe can change your life.   The Tinder team is obsessed with building fun experiences that make it incredibly easy to meet interesting people around the world.",
-        "logo": "Tinder-logo.png"
+        "name": "Rough Draft Ventures",
+        "website": "Roughdraft.vc",
+        "logo": "rdv.png"
     },
     {
-        "name": "Nebulous Labs",
-        "website": "https://siacoin.com",
-        "description": "Parent company of a decentralized storage platform called Sia.",
-        "logo": "NebulousLabs-logo.png"
+        "name": "Datto",
+        "website": "www.datto.com",
+        "logo": "datto.png"
     },
     {
-        "name": "MIT Lincoln Lab"
+        "name": "GoDaddy",
+        "website": "www.godaddy.com",
+        "logo": "go-daddy.jpg"
     },
     {
-        "name": "MIT BayesDB"
-    },
-    {
-        "name": "GoDaddy"
-    },
-    {
-        "name": "Indico",
-        "apiUrl" : "https://indico.io/docs"
-    },
-    {
-        "name": "Giphy",
-        "apiUrl": "https://github.com/Giphy/giphyAPI"
-    },
-    {
-        "name": "Accenture"
-    },
-    {
-        "name": "Monster"
-    },
-    {
-        "name": "PandaPay"
-    },
-    {
-        "name": "MIT Office of Digital Learning"
-    },
-    {
-        "name": "DIRECTV",
-        "website": "http://www.directv.com",
-        "logo": "DIRECTV-logo.png",
-        "apiUrl": "http://www.directvdev.com/"
-    },
-    {
-        "name": "BigData @ CSail"
+        "name": "Soylent",
+        "website": "www.soylent.com",
+        "logo": "soylent.png"
     }
   ]
 }
