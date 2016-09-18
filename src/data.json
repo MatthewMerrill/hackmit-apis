@@ -2,13 +2,13 @@
     "apis": [
     {
         "name": "Disney",
-        "website": "disneytechjobs.com",
+        "website": "http://disneytechjobs.com",
         "description": "At Disney, we're storytellers. We make the impossible, possible. We do this through utilizing and developing cutting-edge technology and pushing the envelope to bring stories to life through our movies, products, interactive games, parks and resorts, and media networks. Now is your chance to join our talented team that delivers unparalleled creative content to audiences around the world.",
         "logo": "disney.png"
     },
     {
         "name": "Synaptics",
-        "website": "www.synaptics.com",
+        "website": "http://www.synaptics.com",
         "description": "Synaptics is the pioneer and leader of the human interface revolution, bringing innovative and intuitive user experiences to intelligent devices. Synaptics' broad portfolio of touch, display, and biometrics products is built on the company's rich R&D and supply chain capabilities. With solutions designed for mobile, PC and automotive industries, Synaptics combines ease of use, functionality and aesthetics to enable products that help make our digital lives more productive, secure and enjoyable.",
         "logo": "synaptics.png"
     },
@@ -117,32 +117,32 @@
     },
     {
         "name": "D. E. Shaw",
-        "website": "www.deshaw.com",
+        "website": "http://www.deshaw.com",
         "description": "Headquartered in New York City, the D. E. Shaw group is a global investment and technology development firm with offices around the world. With a culture that combines some of the best aspects of academia, finance, and technology, we pride ourselves on a work environment that promotes collaboration, integrity, and adherence to the highest possible ethical standards. We've learned that when an extraordinary team sets extraordinarily ambitious goals, unexpected breakthroughs can be achieved.",
         "logo": "deshaw.png"
     },
     {
         "name": "Google",
-        "website": "google.com/careers/students",
+        "website": "http://google.com/careers/students",
         "description": "Google is a global technology leader focused on improving the ways people connect with information. Google's innovations in web search and advertising have made its website a top Internet property and its brand one of the mostrecognized in the world.",
         "logo": "google.png"
     },
     {
         "name": "Coinbase",
-        "website": "www.coinbase.com",
+        "website": "http://www.coinbase.com",
         "apiUrl": "https://developers.coinbase.com/",
         "description": "Founded in June of 2012, Coinbase is a digital currency wallet and platform where merchants and consumers can transact with new digital currencies like bitcoin and ethereum.",
         "logo": "coinbase.png"
     },
     {
         "name": "Facebook",
-        "website": "www.facebook.com",
+        "website": "http://www.facebook.com",
         "description": "Founded in 2004, Facebook's mission is to give people the power to share and make the world more open and connected. People use Facebook to stay connected with friends and family, to discover what's going on in the world, and to share and express what matters to them.",
         "logo": "facebook.png"
     },
     {
         "name": "Five Rings",
-        "website": "www.fiverings.com",
+        "website": "http://www.fiverings.com",
         "description": "Five Rings is a proprietary trading firm founded with a vision of combining strategy, innovation and technology to succeed in today's global markets. Five Rings trades in various domestic and international markets, both established and esoteric. \n\nOur team constantly seeks new opportunities, analyzes their risks and rewards, and creates strategies and tools to capitalize on them. We have an open culture and encourage the flow of knowledge and ideas between all areas of the firm.",
         "logo": "fiverings.jpg"
     },
@@ -155,7 +155,7 @@
     },
     {
         "name": "Fin",
-        "website": "www.fin.com",
+        "website": "http://www.fin.com",
         "description": "Fin is a 24x7 premium service, powered by both machine and human intelligence, that finds answers, sends messages, and remembers everything for you. We are dogmatic about getting the right answer, not about pursuing some abstract concept of AI. So, Fin is more accurate, powerful, and better able to handle real nuance and complexity than anything else. It feels like having the best possible personal assistant, except it never sleeps, is much faster, and has access to deep knowledge and technology",
         "logo": "fin.png"
     },
@@ -187,7 +187,7 @@
     },
     {
         "name": "BookBub",
-        "website": "www.bookbub.com",
+        "website": "http://www.bookbub.com",
         "description": "BookBub is a free service that helps millions of readers discover great deals on acclaimed ebooks while providing publishers and authors with a way to drive sales and find new fans. Members receive a personalized daily email alerting them to the best free and deeply discounted titles matching their interests as selected by our editorial team. BookBub works with all major ebook retailers and devices, and is the industry's leading ebook price promotion service.",
         "logo": "bookbub.png"
     },
@@ -212,7 +212,7 @@
     },
     {
         "name": "Akamai",
-        "website": "www.akamai.com",
+        "website": "http://www.akamai.com",
         "description": "Akamai helps businesses connect the hyperconnected, empowering them to transform and reinvent their business online. We remove the complexities of technology so you can focus on driving your business faster forward enabling you to embrace trends like cloud, mobile and media, while overcoming the challenges presented by security threats and the need to reach users globally.",
         "logo": "akamai.png"
     },
@@ -240,7 +240,7 @@
     },
     {
         "name": "Particle",
-        "website": "www.particle.io",
+        "website": "http://www.particle.io",
         "logo": "particle.png"
     },
     {
@@ -274,7 +274,7 @@
     {
         "name": "Ford",
         "website": "corporate.ford.com",
-        "apiUrl": "www.openxcplatform.com",
+        "apiUrl": "http://www.openxcplatform.com",
         "logo": "ford.png"
     },
     {
@@ -284,22 +284,22 @@
     },
     {
         "name": "Rough Draft Ventures",
-        "website": "Roughdraft.vc",
+        "website": "http://Roughdraft.vc",
         "logo": "rdv.png"
     },
     {
         "name": "Datto",
-        "website": "www.datto.com",
+        "website": "http://www.datto.com",
         "logo": "datto.png"
     },
     {
         "name": "GoDaddy",
-        "website": "www.godaddy.com",
+        "website": "http://www.godaddy.com",
         "logo": "go-daddy.jpg"
     },
     {
         "name": "Soylent",
-        "website": "www.soylent.com",
+        "website": "http://www.soylent.com",
         "logo": "soylent.png"
     }
   ]
